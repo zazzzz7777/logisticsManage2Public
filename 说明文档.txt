@@ -1,0 +1,16 @@
+�Ƽ�ʹ�ã��ȸ������
+
+��ַ��http://localhost:8080/logisticsManage/index.jsp ��̨����
+
+����Ա  admin  ���룺admin
+
+����Ա�ɲ鿴���������ڵ�¼��Ա���˺�����
+
+��/src/main/resources/config.properties�б༭
+
+	jdbc_url=jdbc:mysql://127.0.0.1:3306/ds-ssmj?useUnicode=true&characterEncoding=UTF-8&tinyInt1isBit=false
+	jdbc_username=root	    ���ݿ��û��� root
+	jdbc_password=123456	�û�����    123456
+
+
+ͼƬ���·���� src\main\webapp\upload �����ϴ�ͼƬ�����治��������
