@@ -10,7 +10,7 @@
 [https://www.bilibili.com/video/BV1vvrUYBEBu/](https://www.bilibili.com/video/BV1vvrUYBEBu/)**
 
 **毕业设计所有选题地址：
-[https://github.com/giteecode/allProject](https://github.com/zazzzz7777/allProject)**
+[https://github.com/zazzzz7777/allProject](https://github.com/zazzzz7777/allProject)**
 
 ## 基于Java+Springboot的物流管理系统(源代码+数据库+万字论文+开题)208
 
