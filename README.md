@@ -39,47 +39,7 @@
 
 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 
-## 四、页面截图
-论文截图：
-![contents](./picture/picture0.png)
-![contents](./picture/picture00.png)
-### 1、用户：
-![contents](./picture/picture1.png)
-![contents](./picture/picture2.png)
-![contents](./picture/picture3.png)
-![contents](./picture/picture4.png)
-![contents](./picture/picture5.png)
-![contents](./picture/picture6.png)
-![contents](./picture/picture7.png)
-![contents](./picture/picture8.png)
-![contents](./picture/picture9.png)
-![contents](./picture/picture10.png)
-![contents](./picture/picture11.png)
-![contents](./picture/picture12.png)
-![contents](./picture/picture13.png)
-
-### 2、管理员：
-![contents](./picture/picture14.png)
-![contents](./picture/picture15.png)
-![contents](./picture/picture16.png)
-![contents](./picture/picture17.png)
-![contents](./picture/picture18.png)
-![contents](./picture/picture19.png)
-![contents](./picture/picture20.png)
-![contents](./picture/picture21.png)
-![contents](./picture/picture22.png)
-![contents](./picture/picture23.png)
-![contents](./picture/picture24.png)
-![contents](./picture/picture25.png)
-![contents](./picture/picture26.png)
-![contents](./picture/picture27.png)
-![contents](./picture/picture28.png)
-![contents](./picture/picture29.png)
-![contents](./picture/picture30.png)
-![contents](./picture/picture31.png)
-![contents](./picture/picture32.png)
-
-## 五、浏览地址
+## 四、浏览地址
 
 后台地址：http://localhost:8080/logisticsManage/jsp/login.jsp
 
@@ -88,7 +48,7 @@
 管理员账户密码：admin/admin
 
 
-## 六、部署教程
+## 五、部署教程
 1. 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并执行项目的sql文件
 
 2. 使用IDEA/Eclipse导入logisticsManage2项目，若为maven项目请选择maven，等待依赖下载完成
